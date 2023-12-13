@@ -1,6 +1,5 @@
 # 🇨🇭 Bitcoin Association Switzerland (BAS) Statutes Repository
 
----
 
 ## 📜 Introduction
 
