@@ -4,6 +4,16 @@ Pursuant to Articles 60 et sqq. Civil Code (Zivilgesetzbuch) an association is
 organized under the name „Bitcoin Association Switzerland“ (hereinafter the
 “Association”) with its domicile in Zurich.
 
+# Definition of Bitcoin
+
+Bitcoin is an open-source software with a payment network and its own currency. We understand Bitcoin to be the monetary system technology described in the publication "[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)" by Satoshi Nakamoto in 2008, which operates the Bitcoin with the ticker BTC. Bitcoin is a sovereign, decentralized monetary system that can serve as a complementary alternative to the state/politically led fiat money system.
+
+The Bitcoin system and the fiat system are two fundamentally different approaches to managing money. The Bitcoin system operates a decentralized cryptocurrency (BTC) that is not controlled by any central authority or political entity. The total quantity is precisely limited to approximately **20,999,999.9769 BTC**, a figure that fine-tunes the often rounded number of 21 million. One Bitcoin (BTC) consists of 100,000,000 Satoshis (SAT). The issuance of new Bitcoins occurs in a competitive mining process. Here, the most efficient miners receive newly minted Bitcoins (Coinbase) as labor compensation.
+
+The intrinsic value of Bitcoin lies in this proof-of-work labor process, whose energy consumption protects the system from attacks and thereby creates trust in the security of Bitcoin as a cross-border, sovereign digital currency. The fiat system consists of state-issued currencies (CHF, USD, EUR, YEN, etc.) that derive their value from the trust in governments and the population. It is characterized by the money creation privilege, which gives central and commercial banks the exclusive right to create money (coins and demand deposits). By controlling the money supply and interest rates, central banks conduct monetary policy. The management of central banks is subject to centralized political control.
+
+The Bitcoin system needs natural persons to operate it, use it, and represent its interests. The Bitcoin Association Switzerland is the advocacy group for the users and operators of the Bitcoin system, whose interest community (IG) is in Switzerland.
+
 ## Art. 1 Objective
 
 (1) Objective of the Association is to promote digital currencies.
