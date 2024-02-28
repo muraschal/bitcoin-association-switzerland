@@ -1,4 +1,4 @@
-# Bitcoin Association Switzerland (BAS) Repository
+# Bitcoin Association Switzerland (BAS) Repository German
 
 ---
 
